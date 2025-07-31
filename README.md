@@ -16,9 +16,8 @@ This is a solution to the [Frontend Mentor - Interactive Card Details Form](http
 - Success message screen after submission
 
 ## 📸 Screenshot
-
-> Add a screenshot of your project (e.g. `public/preview.jpg`)  
-> ![Preview](\src\design\desktop-design.jpg)
+ 
+> ![Preview](src/design/desktop-design.jpg)
 
 ## 🛠️ Getting Started
 
